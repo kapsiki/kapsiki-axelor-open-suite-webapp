@@ -8,7 +8,7 @@
     "cyan": "#26C6F9",
 
     "white": "#FFF",
-    "black": "#FFFFFF",
+    "black": "#333",
 
     "body_color": "#2f3945",
     "emphasis_color": "#FF0000",
@@ -18,8 +18,8 @@
     "tertiary_bg": "",
     "tertiary_color": "",
 
-    "primary": "#FF4816",
-    "secondary": "#742813",
+    "primary": "#262e68",
+    "secondary": "#a9c1e3",
     "success": "",
     "warning": "",
     "danger": "",
@@ -44,7 +44,7 @@
         "bg": "#FFFFFF",
         "border": {
         "width": "1px",
-        "color": "#FF4816",
+        "color": "#262e68",
         "style": "solid",
         "radius": ""
       }
