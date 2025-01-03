@@ -38,4 +38,4 @@ networks:
     ipam:
       config:
         - subnet: 172.10.2.0/24  # Adjusted subnet to avoid conflicts
- 
+
