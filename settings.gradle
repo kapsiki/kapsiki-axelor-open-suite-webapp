@@ -47,6 +47,7 @@ dependencyResolutionManagement {
 }
 
 //Include all modules
+
 rootProject.name = "arno-erp"
 
 def modules = []
